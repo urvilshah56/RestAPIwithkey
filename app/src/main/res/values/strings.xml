@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestAPIwithKey</string>
+    <string name="token">TytBcTViZGsrTnJZZEZVd3EzZmpkdz09</string>
+    <string name="base_url">https://trefle.io/api/</string>
+</resources>
